@@ -1,4 +1,4 @@
 # Desafio de projeto sobre git/github da DIO
 Repositório criado para o desafio de projeto
 ## Links úteis
-[Sintaxe básica markdown]
+[Sintaxe básica markdown](https://github.com/penegeco/dio-desafio-github-primeiro-repositorio.git)
